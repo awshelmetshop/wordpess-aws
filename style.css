@@ -1,0 +1,26 @@
+/*
+Theme Name: Rider Safety Gear BD
+Theme URI: https://ai.studio/build
+Description: Premium Motorcycle Gear & Helmet Store theme powered by React, Vite, and Tailwind CSS. Super fast, interactive, and optimized for nationwide delivery.
+Version: 1.0.0
+Author: AI Studio Code Agent
+Author URI: https://ai.studio/build
+Text Domain: rider-safety-gear
+License: GNU GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: e-commerce, custom-colors, full-width-template, translation-ready, dark-mode
+*/
+
+/* WordPress Core Style Fallbacks */
+.aligncenter {
+    display: block;
+    margin: 1.5em auto;
+}
+.alignleft {
+    float: left;
+    margin: 0.5em 1.5em 1.5em 0;
+}
+.alignright {
+    float: right;
+    margin: 0.5em 0 1.5em 1.5em;
+}

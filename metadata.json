@@ -1,0 +1,6 @@
+{
+  "name": "MotoShop BD",
+  "description": "High-fidelity professional Motorcycle Accessories eCommerce platform for the Bangladesh market, featuring a premium Frosted Glass glassmorphism design theme, immersive emerald gradient backdrops, order tracking, and bKash/Nagad checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
